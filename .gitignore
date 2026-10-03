@@ -1,0 +1,7 @@
+BeamMP-Launcher/
+BeamMP-Server/
+vcpkg/
+
+# Builds
+dist/
+*.tar.gz
